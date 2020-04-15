@@ -11,14 +11,14 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: rajdeep-cse17.github.io
-description: Personal Website for Rajdeep Bhattacharya
+title: _site name_
+description: _description_
 owner:
-  name: Rajdeep Bhattacharya # or company name
-  url: "https://rajdeep-cse17.github.io" # your URL
-first_published: 2020 # if migrating another site, the year of your first publish
+  name: _your name_ # or company name
+  url: "http://example.com" # your URL
+first_published: 2010 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
-url: "https://rajdeep-cse17.github.io" # the base hostname & protocol for this site
+url: "http://example.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
@@ -28,8 +28,8 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Hello World
-  text: Welcome to my webpage. I'm Rajdeep Bhattacharya, a 3rd Year Student of Computer Science and Engineering at Jadavpur University, Kolkata. Scroll on to find out more about me.
+  title: _Your greeting_  
+  text: _Your detailed greeting text_
 # - displayed at the bottom
 closing-head: _Your closing_
 closing-para: _Your detailed closing_
